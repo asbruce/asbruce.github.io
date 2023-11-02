@@ -556,6 +556,10 @@ body:not(.user-is-tabbing) a:focus {
 	border-radius: 100%;
 }
 
+.highlighted{
+    color: var(--pink);
+}
+
 
 @media(min-width: 901px) {
     .about__text {
